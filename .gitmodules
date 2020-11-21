@@ -1,0 +1,3 @@
+[submodule "wifi-driver"]
+	path = wifi-driver
+	url = https://github.com/MrZahaki/wifi-driver.git
